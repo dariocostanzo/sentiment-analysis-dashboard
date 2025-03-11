@@ -1,4 +1,3 @@
-````markdown:c:\Users\dario\projects\sentiment-analysis-dashboard\README.md
 # Sentiment Analysis Dashboard
 
 A web-based dashboard for analyzing sentiment in text data using Hugging Face transformers and Streamlit.
@@ -16,7 +15,6 @@ A web-based dashboard for analyzing sentiment in text data using Hugging Face tr
    ```bash
    git clone https://github.com/dariocostanzo/sentiment-analysis-dashboard.git
    cd sentiment-analysis-dashboard
-````
 
 2. Install the required packages:
    ```bash
