@@ -1,5 +1,3 @@
-I see the issue. The README.md file needs to be updated with all the missing content. Let me provide you with the complete file that you can copy and paste to replace the current content:
-
 ````markdown:c:\Users\dario\projects\sentiment-analysis-dashboard\README.md
 # Sentiment Analysis Dashboard
 
